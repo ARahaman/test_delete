@@ -1,10 +1,10 @@
 {
   "active": true,
-  "caller": "Abraham Lincoln",
+  "caller": "System Administrator",
   "category": "network",
   "contact-type": "email",
   "impact": 1,
-  "short-description": "AI attack on network!",
+  "short-description": "dummy",
   "state": 2,
   "subcategory": "dns",
   "urgency": 1
